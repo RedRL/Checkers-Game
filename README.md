@@ -1,5 +1,5 @@
  <h1>Checkers Game</h1>
-<p>The classic Checkers game in C#</p>
+<p>The classic Checkers game in C#.</p>
 
 <p><h2>Description</h2></p>
 
